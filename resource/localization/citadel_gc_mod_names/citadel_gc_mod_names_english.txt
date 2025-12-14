@@ -209,7 +209,7 @@
 		"upgrade_grand_slam"					"Grand Slam"
 		"upgrade_trauma_generator"				"Trauma Generator"
 		"upgrade_pipe_bomb"						"6000 Amp Fuse"
-		"upgrade_mega_expansion"				"GIGA Expansion!"
+		"upgrade_mega_expansion"				"Mega Expansion!"
 		"upgrade_genie"							"Genie"
 		"upgrade_begone"						"Hand of Banishment"
 		"upgrade_smite"							"Judgement Watch"
